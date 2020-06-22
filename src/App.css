@@ -53,6 +53,9 @@ h6 {
   margin-bottom: 1.5em;
 }
 
+.logo{
+  width: 100%
+}
 .btn-primary {
   display: inline-block;
   text-decoration: none;
