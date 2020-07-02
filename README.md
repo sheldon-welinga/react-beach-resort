@@ -1,4 +1,4 @@
-Follow this link for the website. Open [Prince Beach Resort](https://prince-beach-resort.netlify.app/?target=_blank) to view the site.
+Follow this link for the website. Open [Prince Beach Resort](https://prince-beach-resort.netlify.app/){:target="_blank"} to view the site.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
